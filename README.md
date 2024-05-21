@@ -1,4 +1,4 @@
-Audio Analysis and Chord Extraction Application
+**Audio Analysis and Chord Extraction Application**
 This project contains two main components for analyzing audio files and extracting chord information:
 
 Chord Extract.py: A GUI-based application for extracting chords from audio files using the Chordino library.
