@@ -14,14 +14,15 @@ To run these scripts, you will need the following Python packages:
 - `matplotlib`
 - `numpy`
 - `scipy`
-- `chord_extractor`
+- `chordino`
 - `fluidsynth` (for MIDI to WAV conversion)
 
-You can install the necessary Python packages using pip:
+You can install the necessary Python packages using the following:
 
 ```bash
-pip install tkinter librosa matplotlib numpy scipy chord_extractor
+pip install librosa matplotlib numpy scipy 
 ```
+To install Chordino/Chord-Extractor follow the guide on the following git: https://github.com/ohollo/chord-extractor
 
 ## Additional Software
 
