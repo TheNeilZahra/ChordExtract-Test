@@ -22,7 +22,7 @@ You can install the necessary Python packages using the following:
 ```bash
 pip install librosa matplotlib numpy scipy 
 ```
-To install Chordino/Chord-Extractor follow the guide on the following git: https://github.com/ohollo/chord-extractor
+To install Chordino/Chord-Extractor follow the guide [here](https://github.com/ohollo/chord-extractor).
 
 ## Additional Software
 
