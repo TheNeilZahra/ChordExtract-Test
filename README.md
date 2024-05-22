@@ -27,6 +27,11 @@ To install Chordino/Chord-Extractor follow the guide on the following git: https
 ## Additional Software
 
 For MIDI to WAV conversion, you need to install `fluidsynth`. You can download and install it from [here](https://github.com/FluidSynth/fluidsynth).
+If using Windows OS, it can be easily installed using Chocolatey: 
+
+```bash
+choco install fluidsynth
+```
 
 ## Usage
 
