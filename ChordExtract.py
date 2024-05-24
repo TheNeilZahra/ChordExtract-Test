@@ -41,8 +41,8 @@ class ChordExtractApp:
         self.frame = ttk.Frame(self.root, padding=20)
         self.frame.place(relwidth=1, relheight=1)
 
-        self.label = ttk.Label(self.frame, text="Drag and Drop your song file here", anchor="center")
-        self.label.pack(pady=20, fill=tk.X)
+        self.label = ttk.Label(self.frame, text="Select your song file here", anchor="center")
+        self.label.pack(pady=10, fill=tk.X)
 
         self.button = ttk.Button(self.frame, text="Select File", command=self.browse_file)
         self.button.pack(pady=10)
